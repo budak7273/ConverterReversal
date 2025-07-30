@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0-pre1",
-	"FriendlyName": "ConverterReversal",
+	"VersionName": "1.0.0-pre3",
+	"FriendlyName": "Converter Reversal",
 	"Description": "Additional Converter recipes that go \"backwards\" in the cycle",
 	"Category": "Modding",
 	"CreatedBy": "Robb, McGalleon",
@@ -21,6 +21,6 @@
 			"SemVersion": "^3.11.1"
 		}
 	],
-	"SemVersion": "1.0.0-pre1",
+	"SemVersion": "1.0.0-pre3",
 	"GameVersion": ">=416835"
 }
